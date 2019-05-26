@@ -1,0 +1,56 @@
+#root{
+width: 100%;
+height: 100%;
+}
+.closebtn{
+   float:right;
+ }
+ .login-form {
+  max-width: 400px;
+}
+ .login-form-forgot {
+  float: right;
+}
+ .login-form-button {
+  width: 100%;
+}
+.card {
+  min-width: 100%;
+  min-height: 200px;
+  display: flex;
+  overflow-x: auto;
+
+}
+.card--content {
+  min-width: 300px;
+}
+
+.card::-webkit-scrollbar {
+  display: none;
+}
+.alb{
+  color:white;
+}
+.cont{
+  padding:3%;
+}
+.sus{
+  float:right;
+}
+.link{
+  cursor:pointer;
+}
+.center{
+  display:flex!important;
+
+  justify-content: center;
+  align-items: center;
+}
+.center2{
+  display:flex!important;
+
+  justify-content: center;
+}
+.ant-layout {
+min-height: 100%;
+}
